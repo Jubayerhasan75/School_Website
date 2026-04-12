@@ -1,0 +1,13 @@
+config/db.php
+.env
+vendor/
+node_modules/
+*.log
+assets/images/students/*
+assets/images/teachers/*
+assets/images/slider/*
+assets/images/gallery/*
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
